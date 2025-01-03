@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should not be able to login with invalid username</description>
+   <name>TC-LOG-003</name>
+   <tag>Negative</tag>
+   <comment></comment>
+   <testCaseGuid>b40e007c-03e3-4c0d-bc66-195a4f7ca58c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to make an appointment with all form filled out</description>
+   <name>TC-MAP-001</name>
+   <tag>Positive</tag>
+   <comment></comment>
+   <testCaseGuid>e5fb8c8b-eb8e-453a-9141-3538939f4717</testCaseGuid>
+</TestCaseEntity>
